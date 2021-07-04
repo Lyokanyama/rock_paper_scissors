@@ -3,7 +3,10 @@ Version 0.1.0
 Version 0.2.0
     Added addtional options; Spock, Lizard.
     New rule set is as follows:
-    Scissors cuts Paper covers Rock
-    crushes Lizard Poisons Spock smashes
-    Scissors decapitates Lizard eats Paper
-    disproves Spock vaporizes Rock crushes Scissors.
+      Scissors cuts Paper covers Rock
+      crushes Lizard Poisons Spock smashes
+      Scissors decapitates Lizard eats Paper
+      disproves Spock vaporizes Rock crushes Scissors.
+Version 0.3.0
+    Added score system, static at the moment with all games being out of 5.
+    Code is a bit more robust
